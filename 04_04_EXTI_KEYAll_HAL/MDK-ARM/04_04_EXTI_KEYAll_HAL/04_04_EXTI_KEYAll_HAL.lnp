@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"04_04_exti_keyall_hal\startup_stm32f103xe.o"
+"04_04_exti_keyall_hal\main.o"
+"04_04_exti_keyall_hal\gpio.o"
+"04_04_exti_keyall_hal\stm32f1xx_it.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_msp.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_gpio_ex.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_tim.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_tim_ex.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_rcc.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_rcc_ex.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_gpio.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_dma.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_cortex.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_pwr.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_flash.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_flash_ex.o"
+"04_04_exti_keyall_hal\stm32f1xx_hal_exti.o"
+"04_04_exti_keyall_hal\system_stm32f1xx.o"
+--strict --scatter "04_04_EXTI_KEYAll_HAL\04_04_EXTI_KEYAll_HAL.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "04_04_EXTI_KEYAll_HAL.map" -o 04_04_EXTI_KEYAll_HAL\04_04_EXTI_KEYAll_HAL.axf
