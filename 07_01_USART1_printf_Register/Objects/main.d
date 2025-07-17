@@ -1,8 +1,0 @@
-.\objects\main.o: User\main.c
-.\objects\main.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\main.o: .\Start\stm32f10x.h
-.\objects\main.o: .\Start\core_cm3.h
-.\objects\main.o: .\Start\system_stm32f10x.h
-.\objects\main.o: .\User\Com\Com_Util.h
-.\objects\main.o: .\User\Dri\Dri_USART1.h
-.\objects\main.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdio.h
