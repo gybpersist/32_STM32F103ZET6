@@ -9,15 +9,15 @@
 1. 安装 STM23CubeMX （需要 java8 环境支持）
 2. 安装 HAL 库支持包（在线或离线安装）
 ```
-![1751890846075.png](https://img.picui.cn/free/2025/07/07/686bbb98a550c.png)
+![1751890846075.png](https://free.picui.cn/free/2025/07/07/686bbb98a550c.png)
 
 ### 2 使用 STM23CubeMX 创建 HAL 库项目
 
 #### 2.0 创建项目并选择对应芯片
 
-![1751891199113.png](https://img.picui.cn/free/2025/07/07/686bbcfb7e0c7.png)
+![1751891199113.png](https://free.picui.cn/free/2025/07/07/686bbcfb7e0c7.png)
 
-![1751891366393.png](https://img.picui.cn/free/2025/07/07/686bbda16f8da.png)
+![1751891366393.png](https://free.picui.cn/free/2025/07/07/686bbda16f8da.png)
 
 #### 2.1 引脚和系统设置
 
