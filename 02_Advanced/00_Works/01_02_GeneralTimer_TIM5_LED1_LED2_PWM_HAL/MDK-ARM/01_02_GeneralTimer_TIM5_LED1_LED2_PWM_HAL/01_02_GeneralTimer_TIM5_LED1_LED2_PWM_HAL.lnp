@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\startup_stm32f103xe.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\main.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\gpio.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\tim.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\usart.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_it.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_msp.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_gpio_ex.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_tim.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_tim_ex.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_rcc.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_rcc_ex.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_gpio.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_dma.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_cortex.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_pwr.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_flash.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_flash_ex.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_exti.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\stm32f1xx_hal_uart.o"
+"01_02_generaltimer_tim5_led1_led2_pwm_hal\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "01_02_GeneralTimer_TIM5_LED1_LED2_PWM_HAL\01_02_GeneralTimer_TIM5_LED1_LED2_PWM_HAL.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "01_02_GeneralTimer_TIM5_LED1_LED2_PWM_HAL.map" -o 01_02_GeneralTimer_TIM5_LED1_LED2_PWM_HAL\01_02_GeneralTimer_TIM5_LED1_LED2_PWM_HAL.axf

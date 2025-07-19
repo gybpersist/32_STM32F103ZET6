@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "int_key.h": "c",
+        "com_util.h": "c",
+        "stm32f10x.h": "c"
+    }
+}

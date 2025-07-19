@@ -1,0 +1,12 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin'
+Build target 'Target_1'
+compiling main.c...
+linking...
+.\Objects\02_01_BaseTimer_TIM6_Register.axf: Error: L6218E: Undefined symbol Dri_TIM6_Init (referred from main.o).
+.\Objects\02_01_BaseTimer_TIM6_Register.axf: Error: L6218E: Undefined symbol Dri_TIM6_Start (referred from main.o).
+Not enough information to list image symbols.
+Not enough information to list load addresses in the image map.
+Finished: 2 information, 0 warning and 2 error messages.
+".\Objects\02_01_BaseTimer_TIM6_Register.axf" - 2 Error(s), 0 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01

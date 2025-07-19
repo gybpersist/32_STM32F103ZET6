@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dri_tim5.h": "c",
+        "dri_usart1.h": "c",
+        "com_util.h": "c"
+    }
+}

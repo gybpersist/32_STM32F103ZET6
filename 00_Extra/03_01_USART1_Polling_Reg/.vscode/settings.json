@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dri_usart1.h": "c",
+        "com_util.h": "c"
+    }
+}

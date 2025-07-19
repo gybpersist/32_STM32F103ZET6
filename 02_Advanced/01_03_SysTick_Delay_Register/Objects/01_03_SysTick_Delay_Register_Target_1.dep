@@ -1,0 +1,80 @@
+Dependencies for Project '01_03_SysTick_Delay_Register', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\Start\core_cm3.c)(0x61605444)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+F (.\Start\core_cm3.h)(0x61605444)()
+F (.\Start\startup_stm32f10x_hd.s)(0x61605445)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include--pd "__UVISION_VERSION SETA 542" --pd "STM32F10X_HD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (.\Start\stm32f10x.h)(0x686CB913)()
+F (.\Start\system_stm32f10x.c)(0x61605444)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (Start\stm32f10x.h)(0x686CB913)
+I (Start\core_cm3.h)(0x61605444)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (Start\system_stm32f10x.h)(0x61605444)
+F (.\Start\system_stm32f10x.h)(0x61605444)()
+F (.\User\Com\Com_Util.c)(0x686B24D8)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\com_util.o --omf_browse .\objects\com_util.crf --depend .\objects\com_util.d)
+I (User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\Dri\Dri_USART1.c)(0x687241DB)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\dri_usart1.o --omf_browse .\objects\dri_usart1.crf --depend .\objects\dri_usart1.d)
+I (User\Dri\Dri_USART1.h)(0x6870AE41)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdio.h)(0x66E15DA1)
+F (.\User\Dri\Dri_I2C.c)(0x6871D9FB)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\dri_i2c.o --omf_browse .\objects\dri_i2c.crf --depend .\objects\dri_i2c.d)
+I (User\Dri\Dri_I2C.h)(0x68723F92)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\Dri\Dri_I2C2.c)(0x6874D37F)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\dri_i2c2.o --omf_browse .\objects\dri_i2c2.crf --depend .\objects\dri_i2c2.d)
+I (User\Dri\Dri_I2C2.h)(0x68748F2A)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\Dri\Dri_SysTick.c)(0x6875F26F)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\dri_systick.o --omf_browse .\objects\dri_systick.crf --depend .\objects\dri_systick.d)
+I (User\Dri\Dri_SysTick.h)(0x6875F196)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\Int\Int_LED.c)(0x686CFB16)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\int_led.o --omf_browse .\objects\int_led.crf --depend .\objects\int_led.d)
+I (User\Int\Int_LED.h)(0x686B391A)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\Int\Int_Key.c)(0x686DCBE6)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\int_key.o --omf_browse .\objects\int_key.crf --depend .\objects\int_key.d)
+I (User\Int\Int_Key.h)(0x686CB922)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\Int\Int_EEPROM.c)(0x6874B8C4)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\int_eeprom.o --omf_browse .\objects\int_eeprom.crf --depend .\objects\int_eeprom.d)
+I (User\Int\Int_EEPROM.h)(0x6874AAD8)
+I (.\User\Dri\Dri_I2C2.h)(0x68748F2A)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+F (.\User\main.c)(0x6875F242)(--c99 --gnu -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\Start -I .\User -I .\User\Com -I .\User\Dri -I .\User\Int-IE:\project_ruanjian\Keil_C51\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="542" -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdint.h)(0x66E15DA0)
+I (.\Start\stm32f10x.h)(0x686CB913)
+I (.\Start\core_cm3.h)(0x61605444)
+I (.\Start\system_stm32f10x.h)(0x61605444)
+I (.\User\Com\Com_Util.h)(0x686B3062)
+I (.\User\Dri\Dri_USART1.h)(0x6870AE41)
+I (E:\project_ruanjian\Keil_C51\ARM\ARMCC\include\stdio.h)(0x66E15DA1)
+I (.\User\Dri\Dri_SysTick.h)(0x6875F196)
+I (.\User\Int\Int_LED.h)(0x686B391A)
