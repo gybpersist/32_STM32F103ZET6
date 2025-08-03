@@ -1,0 +1,92 @@
+*************************** START ****************************
+START TIME: 202312071745
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x33d96f58
+mac h: 0x64e8
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 4194304 bytes (1001261 compressed) at 0x00000000 in 102.4 seconds (effective 327.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 135 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202312080907
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x33d96f58
+mac h: 0x64e8
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+*************************** START ****************************
+START TIME: 202312080907
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x33d96f58
+mac h: 0x64e8
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 4194304 bytes (1001261 compressed) at 0x00000000 in 102.4 seconds (effective 327.8 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 118 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202312080918
+CONNECT BAUD: 115200
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+mac l: 0x33d96f58
+mac h: 0x64e8
+get mac res: 1
+get flash id : 0x00164020
+manufacturer_id: 0x20
+device_id: 0x4016
+Wrote 4194304 bytes (1001261 compressed) at 0x00000000 in 102.4 seconds (effective 327.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 124 s
+Download result: PASS
+*************************** END ****************************
+
