@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "int_eeprom.h": "c",
+        "i2c.h": "c"
+    }
+}

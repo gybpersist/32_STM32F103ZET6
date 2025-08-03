@@ -1,0 +1,1 @@
+0a_03_spi_hardware_hal\startup_stm32f103xe.o: startup_stm32f103xe.s

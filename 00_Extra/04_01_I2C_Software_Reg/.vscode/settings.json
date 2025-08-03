@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dri_i2c.h": "c",
+        "com_util.h": "c",
+        "int_eeprom.h": "c",
+        "dri_usart1.h": "c"
+    }
+}

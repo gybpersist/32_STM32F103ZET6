@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "int_norflash.h": "c",
+        "spi.h": "c",
+        "gpio.h": "c",
+        "usart.h": "c"
+    }
+}
