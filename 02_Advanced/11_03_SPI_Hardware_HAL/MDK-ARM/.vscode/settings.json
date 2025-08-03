@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "int_norflash.h": "c",
+        "spi.h": "c"
+    }
+}

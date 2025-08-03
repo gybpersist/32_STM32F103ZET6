@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dri_adc1.h": "c",
+        "dri_usart1.h": "c"
+    }
+}

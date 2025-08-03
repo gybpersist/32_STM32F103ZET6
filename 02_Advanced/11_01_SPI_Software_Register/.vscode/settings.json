@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "dri_spi.h": "c",
+        "com_util.h": "c",
+        "dri_adc1.h": "c",
+        "int_norflash.h": "c",
+        "dri_usart1.h": "c"
+    }
+}

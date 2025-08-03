@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "dri_lowpower.h": "c",
+        "com_util.h": "c",
+        "int_norflash.h": "c",
+        "dri_adc1.h": "c",
+        "dri_spi.h": "c",
+        "int_led.h": "c",
+        "dri_usart1.h": "c",
+        "int_key.h": "c"
+    }
+}

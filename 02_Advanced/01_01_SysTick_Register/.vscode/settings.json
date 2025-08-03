@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dri_systick.h": "c",
+        "com_util.h": "c",
+        "int_led.h": "c"
+    }
+}

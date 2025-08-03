@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "intrin.h": "c",
+        "com_util.h": "c",
+        "int_led.h": "c"
+    }
+}

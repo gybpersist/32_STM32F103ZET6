@@ -1,0 +1,8 @@
+.\objects\int_norflash.o: User\Int\Int_NorFlash.c
+.\objects\int_norflash.o: User\Int\Int_NorFlash.h
+.\objects\int_norflash.o: .\User\Com\Com_Util.h
+.\objects\int_norflash.o: E:\project_ruanjian\Keil_C51\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\int_norflash.o: .\Start\stm32f10x.h
+.\objects\int_norflash.o: .\Start\core_cm3.h
+.\objects\int_norflash.o: .\Start\system_stm32f10x.h
+.\objects\int_norflash.o: .\User\Dri\Dri_SPI1.h

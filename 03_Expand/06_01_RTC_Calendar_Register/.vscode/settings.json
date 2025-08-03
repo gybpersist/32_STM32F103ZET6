@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dri_usart1.h": "c",
+        "dri_rtc.h": "c",
+        "time.h": "c"
+    }
+}

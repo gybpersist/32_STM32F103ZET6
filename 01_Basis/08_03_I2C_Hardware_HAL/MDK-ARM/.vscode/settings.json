@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "int_eeprom.h": "c",
+        "usart.h": "c"
+    }
+}

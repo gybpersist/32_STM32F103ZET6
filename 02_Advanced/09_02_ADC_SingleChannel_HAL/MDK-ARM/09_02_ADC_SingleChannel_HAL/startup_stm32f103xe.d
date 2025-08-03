@@ -1,0 +1,1 @@
+09_02_adc_singlechannel_hal\startup_stm32f103xe.o: startup_stm32f103xe.s

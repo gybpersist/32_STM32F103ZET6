@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "com_util.h": "c",
+        "stdint.h": "c",
+        "int_led.h": "c",
+        "stm32f1xx_hal.h": "c"
+    }
+}

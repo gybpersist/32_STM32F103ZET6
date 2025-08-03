@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dri_spi.h": "c",
+        "dri_spi1.h": "c",
+        "int_norflash.h": "c"
+    }
+}

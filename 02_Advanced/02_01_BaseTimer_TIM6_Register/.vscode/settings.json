@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dri_tim6.h": "c",
+        "com_util.h": "c",
+        "cstdint": "c"
+    }
+}

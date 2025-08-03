@@ -1,0 +1,1 @@
+02_02_lowpower_stop_hal\startup_stm32f103xe.o: startup_stm32f103xe.s

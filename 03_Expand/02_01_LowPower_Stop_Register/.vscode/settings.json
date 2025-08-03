@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dri_lowpower.h": "c",
+        "int_key.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+07_02_dma_ram2usart1_hal\startup_stm32f103xe.o: startup_stm32f103xe.s
